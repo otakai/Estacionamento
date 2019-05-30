@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0.1.1.1.2:1", "", "Tratar Saída de Veículo", "EARoot/EA1/EA1/EA1/EA2/EA38.htm", "189.png", "10", "0", "", "Analysis diagram0","{45F3AAA4-2945-4c92-B7DA-917206509EA1}");
+tocTab[tocTab.length] = new Array("0.1.1.1.2:2", "", "«DFD_DataStore» Caixa", "EARoot/EA1/EA1/EA1/EA2/EA43.htm", "AAB1EBBD-8_DFD_DataStore.png", "E50", "0", "", "Class0","{F72CAE21-5CA9-4033-B2D9-C5FC89ED7FE9}");
+tocTab[tocTab.length] = new Array("0.1.1.1.2:3", "", "«DFD_Process» Providenciar Saída do Veículo", "EARoot/EA1/EA1/EA1/EA2/EA44.htm", "AAB1EBBD-8_DFD_Process.png", "E42", "0", "", "Activity0","{933D5C91-9BA0-4235-BBD9-C9E5306A4190}");
+tocTab[tocTab.length] = new Array("0.1.1.1.2:4", "", "«DFD_Process» Receber Pagamento", "EARoot/EA1/EA1/EA1/EA2/EA45.htm", "AAB1EBBD-8_DFD_Process.png", "E44", "0", "", "Activity0","{010324E9-08C1-436c-BB46-B6E19395F55B}");

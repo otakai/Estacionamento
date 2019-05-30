@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.1.5:1", "", "5.	(1,0) Apresente o Diagrama de Máquina de Estados correspondente ao Depósito de Dados Ticket.", "EARoot/EA1/EA5/EA64.htm", "183.png", "15", "0", "", "Statechart diagram0","{55719789-7CF2-44b0-9B0E-559234B04597}");
+tocTab[tocTab.length] = new Array("0.1.5:2", "", "", "EARoot/EA1/EA5/EA67.htm", "68.png", "E62", "0", "", "StateNode0","{8D87BD4F-6840-4c02-93D4-60AEBFA23979}");
+tocTab[tocTab.length] = new Array("0.1.5:3", "", "Aberto", "EARoot/EA1/EA5/EA69.htm", "20.png", "E63", "0", "", "State0","{B7F012A1-77C1-4ea8-90E0-3A458D123407}");
+tocTab[tocTab.length] = new Array("0.1.5:4", "", "Cliente entrega o ticket", "EARoot/EA1/EA5/EA70.htm", "198.png", "E66", "0", "", "Trigger0","{AC167C0C-415B-40be-93B6-7E0D379D56E3}");
+tocTab[tocTab.length] = new Array("0.1.5:5", "", "Cliente entrega veículo", "EARoot/EA1/EA5/EA71.htm", "198.png", "E64", "0", "", "Trigger0","{66E05AA4-232A-4cae-8AE6-1ED26FED301C}");
+tocTab[tocTab.length] = new Array("0.1.5:6", "", "Cliente realiza pagamento", "EARoot/EA1/EA5/EA72.htm", "198.png", "E68", "0", "", "Trigger0","{E00BD5A1-7478-4869-AD68-8CD97064BCBE}");
+tocTab[tocTab.length] = new Array("0.1.5:7", "", "Devolvido", "EARoot/EA1/EA5/EA73.htm", "20.png", "E65", "0", "", "State0","{58806507-D62A-4af7-B01A-EAA9BAABC7E5}");
+tocTab[tocTab.length] = new Array("0.1.5:8", "", "Pago", "EARoot/EA1/EA5/EA74.htm", "69.png", "E69", "0", "", "StateNode0","{57A4043C-19A8-4dae-B7B2-635AA1847E0B}");

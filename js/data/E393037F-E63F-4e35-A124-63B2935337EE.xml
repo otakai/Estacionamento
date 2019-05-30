@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.1.1.1.1:1", "", "Tratar Entrada de Veículo", "EARoot/EA1/EA1/EA1/EA1/EA33.htm", "189.png", "8", "0", "", "Analysis diagram0","{FD9088EC-E0C6-470c-A675-3E99ABA40388}");
+tocTab[tocTab.length] = new Array("0.1.1.1.1:2", "", "«DFD_Process» Registrar Veículo", "EARoot/EA1/EA1/EA1/EA1/EA37.htm", "AAB1EBBD-8_DFD_Process.png", "E33", "0", "", "Activity0","{4FA24764-2C72-4294-9B7B-2179F56A974C}");
